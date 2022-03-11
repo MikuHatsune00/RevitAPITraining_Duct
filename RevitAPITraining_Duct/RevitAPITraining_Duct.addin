@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_Duct.dll"</Assembly>		
+		<AddInId>9F151533-82B3-4CBA-819A-986B249CA7E1</AddInId>
+		<FullClassName>RevitAPITraining_Duct.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Duct</Text>
+	</AddIn>
+</RevitAddIns>
